@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Sequel";
+  src: url("../fonts/Sequel_100_Wide_55.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  font-size: 40px;
+  font-family: "Sequel", sans-serif;
+  color: red;
+  text-align: center;
+}
